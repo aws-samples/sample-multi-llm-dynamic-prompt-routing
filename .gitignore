@@ -1,0 +1,38 @@
+# Ignore python venv folder
+**/.venv/
+**/.venv/**
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore build output folders
+build/
+dist/
+**/cdk.out/
+**/cdk.out/**
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore OS generated files
+.DS_Store
+
+.idea
+
+.vscode
+.vscode/**
+
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache folders
+**/__pycache__/
+**/__pycache__/**
