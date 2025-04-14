@@ -1,8 +1,8 @@
 # Multi-LLM dynamic prompt routing samples
 
-**The provided code in this repository is meant to be used in a development environment. Before migrating any of the provided solutions to production, we recommend following the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected)**
+**The code provided in this repository is meant to be used in a development environment. We recommend following the** [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected) **before you migrate any of the solutions shared here in your production environment.**
 
-Read the accompanied blog post: https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/ 
+You can also refer to the accompanied blog post: https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/ for more information.
 
 ## Overview
 
